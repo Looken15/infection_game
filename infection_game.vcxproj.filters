@@ -23,5 +23,8 @@
     <ClInclude Include="board.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="alg.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Tema-\Desktop\Универ\4.1\ИС\infection_game\alg.h(165,3): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Tema-\Desktop\Универ\4.1\ИС\infection_game\alg.h(167): warning C4715: compute_next_step: значение возвращается не при всех путях выполнения
+  infection_game.vcxproj -> C:\Users\Tema-\Desktop\Универ\4.1\ИС\infection_game\x64\Debug\infection_game.exe

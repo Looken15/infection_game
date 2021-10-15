@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Tema-\Desktop\Универ\4.1\ИС\infection_game\alg.h(165,3): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Создание кода
+  2 of 201 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  infection_game.vcxproj -> C:\Users\Tema-\Desktop\Универ\4.1\ИС\infection_game\x64\Release\infection_game.exe

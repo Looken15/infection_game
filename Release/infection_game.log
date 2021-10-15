@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Tema-\Desktop\Универ\4.1\ИС\infection_game\alg.h(96,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tema-\Desktop\Универ\4.1\ИС\infection_game\alg.h(129,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 90 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  infection_game.vcxproj -> C:\Users\Tema-\Desktop\Универ\4.1\ИС\infection_game\Release\infection_game.exe

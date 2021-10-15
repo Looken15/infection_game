@@ -2,6 +2,7 @@
 #include <string>
 
 #include "board.h"
+#include "alg.h"
 
 using namespace std;
 
@@ -9,6 +10,5 @@ int main()
 {
     setlocale(LC_ALL, "RUSSIAN");
 
-    board b = board();
-    b.play();
+    ab();
 }
